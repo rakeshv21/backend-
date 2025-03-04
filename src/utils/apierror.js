@@ -22,4 +22,4 @@ class ApiError extends Errorc{
     }
 }
 
-export {ApiError}
+export {ApiErrorss}
